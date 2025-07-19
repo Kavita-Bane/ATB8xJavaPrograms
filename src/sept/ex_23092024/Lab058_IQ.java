@@ -2,11 +2,10 @@ package ex_23092024;
 
 public class Lab058_IQ {
     public static void main(String[] args) {
-        char code = 'B' ;
+        char code = 'D' ;
         switch (code) {
             default :
                 System.out.println("Default");
-                break;
             case 'A'  :
                 System.out.println(65);
                 break;

@@ -1,6 +1,6 @@
 package ex_13092024;
 
-public class HW13Sept {
+public class Task13Sept {
     public static void main(String[] args) {
         double a = 34;
         double b = 10;

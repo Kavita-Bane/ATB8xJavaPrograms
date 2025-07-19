@@ -1,6 +1,6 @@
 package ex_13092024;
 
-public class HW13Sept_PrintTable {
+public class Task13Sept_PrintTable {
     public static void main(String[] args) {
         int num=3;
         System.out.printf("Table of %d",num);

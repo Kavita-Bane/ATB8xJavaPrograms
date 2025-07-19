@@ -19,7 +19,7 @@ public class Task3_UnitsConversion_23rdSept {
                 System.out.println("Celcius to Fahrenheit :" +(Cel * 1.8 + 32));
                 break;
             case 3 :
-                System.out.println("Fahrenheit to celcius : "+((Fer-32*5/9)));
+                System.out.println("Fahrenheit to celcius : "+(Fer-32*5/9));
                 break;
             default:
                 System.out.println("Default");

@@ -8,10 +8,8 @@ public class Task2_TernaryOperator_20thSept {
 //  score >= 90 → A
 //  score >= 80 → B
 //  score >= 70 → C
-        int score = 55;
-        String grade = (score>=90) ? "A" :
-                (score>=80) ? "B" :
-                        (score>=70) ? "C" : "F";
+        int score = 90;
+        String grade = (score>=90) ? "A" : (score>=80) ? "B" : (score>=70) ? "C" : "F";
         System.out.println("Grade :" +grade);
     }
 }

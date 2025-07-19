@@ -8,6 +8,7 @@ public class Lab043 {
         System.out.println(Math.sin(90)); // 0.89
         System.out.println(Math.abs(-1)); // 1
         System.out.println(Math.abs(a));  // 10
+        System.out.println(Math.addExact(a,b));  // 10
 
 
     }
