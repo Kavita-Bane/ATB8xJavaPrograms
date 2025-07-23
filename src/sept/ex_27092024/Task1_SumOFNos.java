@@ -8,7 +8,6 @@ public class Task1_SumOFNos {
         System.out.println("Sum of No ");
         while (i <= 100) {
             sum = sum + i;
-            System.out.println(sum);
             i++;
         }
         System.out.println("Sum of No from 1 to 100 is " + sum);
